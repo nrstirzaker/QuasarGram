@@ -1,6 +1,9 @@
 # quasargram (quasargram)
 
-A Quasar Project
+This project is taken from https://www.youtube.com/@MakeAppswithDanny
+specifically https://www.youtube.com/watch?v=9tyFBchdb00&list=PLAiDzIdBfy8h6HgfQg3namagsCUT0Y2Bs
+
+
 
 ## Install the dependencies
 ```bash
